@@ -1,0 +1,24 @@
+
+.emphasize{
+    background-color: #ffffcc;
+   
+}
+
+.title-color{
+    color: blue;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+
+#intro-color{
+    color: green;
+}
+
+.outlined{
+    color: white;
+    background-color: blue;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
